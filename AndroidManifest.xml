@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FacialHarmonyTheArtOfHealthyHabitsAndExercise"
+        tools:targetApi="31" >
+        <activity
+            android:name=".quiz"
+            android:exported="false" />
+        <activity
+            android:name=".nose_mouth_cause_effect"
+            android:exported="false" />
+        <activity
+            android:name=".eye_ear_cause_effect"
+            android:exported="false" />
+        <activity
+            android:name=".nose_mouth_internal"
+            android:exported="false" />
+        <activity
+            android:name=".morning_nigth_routines"
+            android:exported="false" />
+        <activity
+            android:name=".nose_mouth_knowledge"
+            android:exported="false" />
+        <activity
+            android:name=".nose_mouth_external"
+            android:exported="false" />
+        <activity
+            android:name=".others_knowledge"
+            android:exported="false" />
+        <activity
+            android:name=".eye_ears_knowledge"
+            android:exported="false" />
+        <activity
+            android:name=".nose_mouth_parts"
+            android:exported="false" />
+        <activity
+            android:name=".eye_ears_internal"
+            android:exported="false" />
+        <activity
+            android:name=".eye_ears_external"
+            android:exported="false" />
+        <activity
+            android:name=".morning_night_homepage"
+            android:exported="false" />
+        <activity
+            android:name=".eye_ears_parts"
+            android:exported="false" />
+        <activity
+            android:name=".nose_mouth_dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".eye_ears_homepage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:theme="@style/Theme.Design.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
