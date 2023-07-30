@@ -52,6 +52,7 @@ This application is designed to enhance our daily lives by providing a wealth of
 
 # Demo Vid:
 
+https://drive.google.com/file/d/1a7_0KqooZ56zDns-PKP-DKGMKyD6Auwr/view?pli=1
 
 # Researcher/Developer:
 
@@ -62,6 +63,10 @@ This application is designed to enhance our daily lives by providing a wealth of
 •	Peleo, Rikki John B.
 
 •	Reytos, Mark Jonathan E.
+
+# Collaborator:
+
+• jeffcostales@gmail.com
 
 # Adviser:
 
