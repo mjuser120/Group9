@@ -58,7 +58,7 @@ https://drive.google.com/file/d/1a7_0KqooZ56zDns-PKP-DKGMKyD6Auwr/view?pli=1
 
 •	Camunggol, Almyr Angelo B.
 
-•	Dizon, Andrew John S.
+•	Dizon, John Andrew S.
 
 •	Peleo, Rikki John B.
 
